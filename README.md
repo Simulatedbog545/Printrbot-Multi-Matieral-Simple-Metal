@@ -1,2 +1,2 @@
 # Printrbot-Multi-Matieral-Simple-Metal
-My 
+My firmware and other files for the Printrbot dual extrusion project
